@@ -19,7 +19,7 @@ function logWhisper(string)
 
 function sayHiToGrandma(string) 
 {
- return "I can't hear you!", "YES INDEED!","I love you, too." 
+ return `I can't hear you!, "YES INDEED!","I love you, too." 
  if; string.toLowerCase() 
  
  

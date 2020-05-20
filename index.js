@@ -23,6 +23,7 @@ function sayHiToGrandma(string)
  var uppercase = 'HELLO'
  if ((string =lowercase)) ((string =uppercase))
  return "I can't hear you!"
-   else; "YES INDEED!" 
+   else;
+   return "YES INDEED!" 
  
 }

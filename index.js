@@ -24,9 +24,9 @@ function sayHiToGrandma(string)
  var mixedCase = "I love you, Grandma." 
  if ((string===lowercase)); ((string===uppercase)); ((string===mixedCase)) 
  return "I can't hear you!"; 
- else;
+
  return "YES INDEED!";
- else;
+
  return "I love you, too."; 
  
 }
